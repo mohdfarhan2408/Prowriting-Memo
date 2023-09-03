@@ -6,7 +6,7 @@ Prowriting is a SaaS tool that is designed for UX and Marketing teams to generat
 Previously raised $140K at $1.25M Post-Money Valuation from Antler and Angel Investors 
 (COO @ AyoConnect and ex-CPO @ Spenmo).
 
-Now raising a Seed round of $1M at $5M Post-Money Valuation. Fund utilization; 85% for Product development and Research, 10% for Sales, and 5% for Opex.
+Looking to raise a Seed round of $1M at $5M Post-Money Valuation. Fund utilization; 85% for Product development and Research, 10% for Sales, and 5% for Opex.
 
 # Problem
 UX writing has a direct impact on the user experience. Good UX writing will increase product usability, get more customers, and increase conversion. However, the team spends >200 hours and uses >5 tools to generate quality UX Writing. The whole process can take 3 full days for proofreading, 7 days for localization, and another 7–14 days for QA. The larger the company, the more products are developed, the more time is needed, and the harder it is to manage. 
