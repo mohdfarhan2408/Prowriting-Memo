@@ -18,33 +18,43 @@ Those aren’t the only issues they have; another problem is the lack of consist
 # Solution
 Prowriting offers software that helps the UX and Marketing teams generate content that is clear, concise, and consistent with the brand guidelines on a single platform much faster. 
 
-How it works: Simply provide basic information about the company, product, or brand. This includes location, language, and industry. Prowriting's proprietary technology, which is also powered by AI language models, will learn from that information, writing style, and tone in generating  contents for marketing or ux writing. Users can also customize the tone and writing style to be similar to AirBnB, Apple or any other known brand. Because everything is done in a single platform, it ensures consistency across the teams, and, most importantly, aligns with the brand guidelines. 
+**How it works:** Simply provide basic information about the company, product, or brand. This includes location, language, and industry. Prowriting's proprietary technology, which is also powered by AI language models, will learn from that information, writing style, and tone in generating  contents for marketing or ux writing. Users can also customize the tone and writing style to be similar to AirBnB, Apple or any other known brand. Because everything is done in a single platform, it ensures consistency across the teams, and, most importantly, aligns with the brand guidelines. 
 
-UX Writing: Prowriting offers a plugin with Figma that simplifies the UX writing process for the Product Design team. For example, it’ll detect which pages you're writing for (eg: homepage, checkout, or payment) and suggest the correct tone of voice based on the collected data. Users can also do the proofreading instantly in Figma to eliminate any typos and grammatical errors. With this, users don’t need to do it in separate tools like Grammarly or Writer which may use different terms and be inconsistent with their brand guidelines. 
+**UX Writing:** Prowriting offers a plugin with Figma that simplifies the UX writing process for the Product Design team. For example, it’ll detect which pages you're writing for (eg: homepage, checkout, or payment) and suggest the correct tone of voice based on the collected data. Users can also do the proofreading instantly in Figma to eliminate any typos and grammatical errors. With this, users don’t need to do it in separate tools like Grammarly or Writer which may use different terms and be inconsistent with their brand guidelines. 
 
-Marketing: Team members can simply generate marketing content for any function, including email marketing, social media advertising, etc. 
+**Marketing:** Team members can simply generate marketing content for any function, including email marketing, social media advertising, etc. 
 
-Localization: Prowriting is currently available in English and Bahasa, but it’ll come with more languages in the future. This feature, however, needs time to fully develop, especially in terms of the accuracy and consistency of the translation. If they can execute it, it’ll give them a clear competitive advantage and make it tough for anyone to copy it.
+**Localization**: Prowriting is currently available in English and Bahasa, but it’ll come with more languages in the future. This feature, however, needs time to fully develop, especially in terms of the accuracy and consistency of the translation. If they can execute it, it’ll give them a clear competitive advantage and make it tough for anyone to copy it.
 
-Backend: Beside leveraging AI language models, Prowriting implemented multiple prompt layers and UX-specific parameters to ensure the end results have a clearer meaning and are more concise. It’s like having many layers of instruction and guidelines that produce more consistent, unique, and quality output.
+**Backend:** Beside leveraging AI language models, Prowriting implemented multiple prompt layers and UX-specific parameters to ensure the end results have a clearer meaning and are more concise. It’s like having many layers of instruction and guidelines that produce more consistent, unique, and quality output.
 
 # Traction
-MAU in 2023:
-August: 304 (MTD projection). 
-Increased by 194 since April 2023.
-ARR in 2023:
-$11,520 to date.
-Paid plan activated in June 2023.
-Customers:
-10 total customers for now.
-ie: Bukalapak, Tiket dot com, Coda Payment, Kargo and etc.
+**MAU in 2023:**
+
+-August: 304 (MTD projection). 
+
+-Increased by 194 since April 2023.
+
+**ARR in 2023:**
+
+-$11,520 to date.
+
+-Paid plan activated in June 2023.
+
+**Customers:**
+
+-10 total customers for now.
+
+ie: Bukalapak, Tiket dot com, Coda Payment, Kargo, etc.
+
 Pipeline: Blibli, Traveloka, eFishery, Koinworks, Indonesia Gov Tech.
 
 # Management Team
-Anthony Susanto, CEO and Co-Founder: 
+**Anthony Susanto, CEO and Co-Founder:** 
 7+ years of experience as a Design and Product Executive.
 Previously was a VP of UX at Spenmo (backed by Tiger Global and Insight Partners).
-Satya Rangga, CTO and Co-Founder:
+
+**Satya Rangga, CTO and Co-Founder:**
 11+ years of experience in launching global and regional software.
 Principal Architect at Spenmo (backed by Tiger Global and Insight Partners).	
 
